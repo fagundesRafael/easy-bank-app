@@ -87,6 +87,7 @@ fn rename_user(user_name: &mut String) {
     }
 }
 
+
 fn exit_program(user_name: &mut String, user_bank_balance: &mut f64) {
     println!("Encerrando o programa...");
     println!(
